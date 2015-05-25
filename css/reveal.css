@@ -95,6 +95,7 @@ body {
   visibility: hidden; }
   .reveal .slides section .fragment.current-visible.current-fragment {
     opacity: 1;
+    display : inline;
     visibility: visible; }
 
 .reveal .slides section .fragment.highlight-red, .reveal .slides section .fragment.highlight-current-red, .reveal .slides section .fragment.highlight-green, .reveal .slides section .fragment.highlight-current-green, .reveal .slides section .fragment.highlight-blue, .reveal .slides section .fragment.highlight-current-blue {
