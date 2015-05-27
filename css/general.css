@@ -1,0 +1,13 @@
+.footnote{
+    font-size: 13px !important;
+    font-style: italic;
+    float: right;
+}
+
+.main_ul {
+    float: left;
+}
+
+.yellow{
+    color : yellow !important;
+}
